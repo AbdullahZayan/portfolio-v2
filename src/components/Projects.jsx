@@ -23,8 +23,8 @@ export default function Projects() {
       description: "This is my FYP system that help you to manage your medical report with secure system and privacy.",
       tech: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
       image: "/HealthCare.jpg", 
-      github: "https://github.com/AbdullahZayan",
-      live: "https://github.com/AbdullahZayan",
+      github: "https://github.com/AbdullahZayan/HealthCare-Storage-System",
+      live: "https://health-care-storage-system.vercel.app/",
     },
   ];
 
